@@ -21,12 +21,12 @@
 "62d185f2-0d10-42d0-955c-67bf5f757994":
     Name : "DE Library"
     Description : "C++/C# API for Dragon Engine games"
-    Version : "0.1"
+    Version : "0.11"
     Author : "Jhrino"
     CanBeDisabled : true
     TargetGames : "likeadragon8;"
     Source : "https://github.com/Fronkln/Dragon-Engine-.NET"
-    Download: "https://github.com/Fronkln/Dragon-Engine-.NET/releases/download/0.1/DE.Library.Y8.zip"
+    Download: "https://github.com/Fronkln/Dragon-Engine-.NET/releases/download/0.11/DE.Library.Y8.zip"
 
 "64b05dbe-c7fa-4b36-9427-082b915645cb":
     Name : "EX Auth"
