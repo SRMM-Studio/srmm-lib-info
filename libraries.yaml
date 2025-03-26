@@ -40,7 +40,7 @@
 
 "63943da8-94e0-4800-93a2-23b07937f764":
     Name : "EX Auth Condition"
-    Description : "63943da8-94e0-4800-93a2-23b07937f764"
+    Description : "Extends auth condition system of Dragon Engine games"
     Version : "0.1"
     Author : "Jhrino"
     CanBeDisabled : true
