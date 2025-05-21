@@ -8,6 +8,16 @@
     Source : "https://github.com/Fronkln/Y5Lib"
     Download: "https://github.com/Fronkln/Y5Lib/releases/download/0.11/Y5Lib.zip"
 
+"0e29b1f2-415a-49f7-8a6c-bae52d75b5dc":
+    Name : "ResourceLoader"
+    Description : "Load important resources at player spawn"
+    Version : "0.1"
+    Author : "Jhrino"
+    CanBeDisabled : false
+    TargetGames : "yakuza5;"
+    Source : "https://github.com/Fronkln/ResourceLoader"
+    Download: "https://github.com/Fronkln/ResourceLoader/releases/download/v0.1/ResourceLoader.zip"
+
 "8c7c5515-58db-4b62-94d6-be3e0a4fc9a7":
     Name : "Ogre Command"
     Description : "Makes fighter command editable on Yakuza 3 and 4"
