@@ -1,12 +1,12 @@
 "79f1ce9b-e09c-447a-a3e8-a36ce886e1b0":
     Name : "Y5Lib"
     Description : "C# Scripting API for Yakuza 5"
-    Version : "0.11"
+    Version : "0.12"
     Author : "Jhrino"
     CanBeDisabled : true
     TargetGames : "yakuza5;"
     Source : "https://github.com/Fronkln/Y5Lib"
-    Download: "https://github.com/Fronkln/Y5Lib/releases/download/0.11/Y5Lib.zip"
+    Download: "https://github.com/Fronkln/Y5Lib/releases/download/0.12/Y5Lib.zip"
 
 "0e29b1f2-415a-49f7-8a6c-bae52d75b5dc":
     Name : "ResourceLoader"
