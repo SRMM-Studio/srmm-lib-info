@@ -11,12 +11,12 @@
 "0e29b1f2-415a-49f7-8a6c-bae52d75b5dc":
     Name : "ResourceLoader"
     Description : "Load important resources at player spawn"
-    Version : "0.1"
+    Version : "0.11"
     Author : "Jhrino"
     CanBeDisabled : false
     TargetGames : "yakuza5;"
     Source : "https://github.com/Fronkln/ResourceLoader"
-    Download: "https://github.com/Fronkln/ResourceLoader/releases/download/v0.1/ResourceLoader.zip"
+    Download: "https://github.com/Fronkln/ResourceLoader/releases/download/v0.11/ResourceLoader.zip"
 
 "8c7c5515-58db-4b62-94d6-be3e0a4fc9a7":
     Name : "Ogre Command"
