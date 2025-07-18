@@ -6,7 +6,7 @@
     CanBeDisabled : true
     TargetGames : "yakuza5;"
     Source : "https://github.com/Fronkln/Y5Lib"
-    Download: "https://github.com/Fronkln/Y5Lib/releases/download/0.16/Y5Lib.zip"
+    Download: "https://github.com/Fronkln/Y5Lib/releases/download/0.17/Y5Lib.zip"
 
 "0e29b1f2-415a-49f7-8a6c-bae52d75b5dc":
     Name : "ResourceLoader"
