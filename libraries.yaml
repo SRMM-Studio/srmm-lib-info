@@ -21,7 +21,7 @@
 "ae8ee30b-f8f7-4b12-92a9-19093a1190f7":
     Name : "OELib"
     Description : "C++/C# Scripting API for Yakuza 0"
-    Version : "0.12"
+    Version : "0.13"
     Author : "Jhrino"
     CanBeDisabled : true
     TargetGames : "yakuza0;"
