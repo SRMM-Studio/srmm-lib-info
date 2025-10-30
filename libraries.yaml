@@ -8,6 +8,16 @@
     Source : "https://github.com/Fronkln/Y5Lib"
     Download: "https://github.com/Fronkln/Y5Lib/releases/download/0.19/Y5Lib.zip"
 
+"c5144d04-1664-438e-bfd6-f1aaa8372e3":
+    Name : "Harucombat"
+    Description : "Add fighting for Haruka"
+    Version : "1.0"
+    Author : "Jhrino"
+    CanBeDisabled : true
+    TargetGames : "yakuza5;"
+    Source : "https://github.com/Fronkln/Y5Lib"
+    Download: "https://github.com/Fronkln/Harucombat/releases/download/v1.0/Harucombat.zip"
+
 "0e29b1f2-415a-49f7-8a6c-bae52d75b5dc":
     Name : "ResourceLoader"
     Description : "Load important resources at player spawn"
