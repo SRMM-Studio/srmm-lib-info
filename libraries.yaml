@@ -28,6 +28,16 @@
     Source : "https://github.com/Fronkln/ResourceLoader"
     Download: "https://github.com/Fronkln/ResourceLoader/releases/download/v0.12/ResourceLoader.zip"
 
+"c7c5dd3a-076f-4179-b340-d5a9973b91f9":
+    Name : "OELib"
+    Description : "C++/C# Scripting API for Yakuza 0 Director's Cut"
+    Version : "0.20"
+    Author : "Jhrino"
+    CanBeDisabled : true
+    TargetGames : "yakuza0_dc;"
+    Source : "https://github.com/Fronkln/OE-Library.NET"
+    Download: "https://github.com/Fronkln/OE-Library.NET/releases/download/v0.20/OELib_Y0DC.zip"
+    
 "ae8ee30b-f8f7-4b12-92a9-19093a1190f7":
     Name : "OELib"
     Description : "C++/C# Scripting API for Yakuza 0"
